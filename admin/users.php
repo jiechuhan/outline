@@ -167,7 +167,8 @@
 
 			<nav class="nav">
 				<ul>
-					<?php 
+					<?php
+					
 						for($i=0; $i<count($users); $i++){
 							echo 
 							"<li>
