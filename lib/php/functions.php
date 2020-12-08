@@ -98,29 +98,10 @@ function getCartItems() {
 		$o->amount = $p->amount;
 		$o->total = $p->amount * $o->price;
 		return $o;
-	} , $data);
+	}, $data);
 }
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ?>
-
-
-
-
-

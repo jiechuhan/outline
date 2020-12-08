@@ -12,7 +12,8 @@
 
 	<?php include "parts/meta.php"; ?>
 </head>
-<body>
+
+<body class="flush">
 	<?php include "parts/navbar.php"; ?>
 
 	<div class="view-window" style="background-image: url(img/dark_night.jpg)">

@@ -35,7 +35,7 @@
 
 		<div class="form-control">
 			<div class="card soft">
-				<div class="display-flex">
+				<div class="display-flex flex-wrap">
 					<div class="flex-stretch display-flex">
 						<div class="flex-none">
 							<button data-filter="category" data-value="" type="button" class="form-button ">All</button>
@@ -66,38 +66,9 @@
 			</div>
 		</div>
 
+
 		<div class='productlist grid gap'>
-			
-
-
 		</div>
-
-<!-- 			<ul>
-			<li><a href="product_item.php?id=1">Prodcut 1</a></li>
-			<li><a href="product_item.php?id=2">Prodcut 2</a></li>
-			<li><a href="product_item.php?id=3">Prodcut 3</a></li>
-			<li><a href="product_item.php?id=4">Prodcut 4</a></li>
-		</ul> -->
-
-		<?php 
-
-		
-		// $result = makeQuery(
-		// 	makeConn(),
-		// 	"
-		// 	SELECT *
-		// 	FROM `products`
-		// 	ORDER BY `date_create` DESC
-		// 	LIMIT 12
-		// 	"
-		// );
-
-		// echo "<div class='productlist grid gap'>", array_reduce($result, 'productListTemplate'), "</div>";
-
-
-
-
-		 ?>
 	</div>
 
 

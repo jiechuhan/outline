@@ -229,7 +229,7 @@
 	<header class="navbar">
 		<div class="container display-flex">
 			<div class="flex-none"></div>
-			<h1>Product Admin</h1>
+			<h1>Product Admin Page</h1>
 			<div class="flex-stretch"></div>
 			<div class="flex-none">
 				<nav class="nav nav-flex flex-none">
